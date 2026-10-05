@@ -1,0 +1,440 @@
+{
+  "status": "DONE",
+  "data": {
+    "video_id": "video.mp4",
+    "arac_bilgisi": {
+      "tip": "sedan",
+      "plaka": "TESPITEDILEMEDI",
+      "renk": "beyaz",
+      "confidence_score": 0.81
+    },
+    "tespitler": [
+      {
+        "zaman_saniye": 3.0,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.62
+      },
+      {
+        "zaman_saniye": 3.0,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.63
+      },
+      {
+        "zaman_saniye": 3.62,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.54
+      },
+      {
+        "zaman_saniye": 4.0,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.76
+      },
+      {
+        "zaman_saniye": 4.16,
+        "kategori": "sofor_eylemi",
+        "etiket": "esneme",
+        "confidence_score": 0.21
+      },
+      {
+        "zaman_saniye": 4.82,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.21
+      },
+      {
+        "zaman_saniye": 5.0,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.71
+      },
+      {
+        "zaman_saniye": 5.18,
+        "kategori": "sofor_eylemi",
+        "etiket": "etrafa_bakinma",
+        "confidence_score": 0.45
+      },
+      {
+        "zaman_saniye": 5.4,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.36
+      },
+      {
+        "zaman_saniye": 6.0,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.82
+      },
+      {
+        "zaman_saniye": 6.48,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.29
+      },
+      {
+        "zaman_saniye": 6.54,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.4
+      },
+      {
+        "zaman_saniye": 7.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.38
+      },
+      {
+        "zaman_saniye": 10.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.77
+      },
+      {
+        "zaman_saniye": 10.12,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.66
+      },
+      {
+        "zaman_saniye": 11.26,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.64
+      },
+      {
+        "zaman_saniye": 11.44,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.26
+      },
+      {
+        "zaman_saniye": 12.26,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.73
+      },
+      {
+        "zaman_saniye": 13.26,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.74
+      },
+      {
+        "zaman_saniye": 13.8,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.37
+      },
+      {
+        "zaman_saniye": 16.8,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.34
+      },
+      {
+        "zaman_saniye": 18.22,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.63
+      },
+      {
+        "zaman_saniye": 19.24,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.62
+      },
+      {
+        "zaman_saniye": 20.34,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.62
+      },
+      {
+        "zaman_saniye": 21.8,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.36
+      },
+      {
+        "zaman_saniye": 24.8,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.83
+      },
+      {
+        "zaman_saniye": 25.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.67
+      },
+      {
+        "zaman_saniye": 25.86,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.28
+      },
+      {
+        "zaman_saniye": 26.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.75
+      },
+      {
+        "zaman_saniye": 27.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.7
+      },
+      {
+        "zaman_saniye": 27.78,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.41
+      },
+      {
+        "zaman_saniye": 28.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.65
+      },
+      {
+        "zaman_saniye": 28.4,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.37
+      },
+      {
+        "zaman_saniye": 31.4,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.38
+      },
+      {
+        "zaman_saniye": 32.38,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.35
+      },
+      {
+        "zaman_saniye": 32.38,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.6
+      },
+      {
+        "zaman_saniye": 33.38,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.73
+      },
+      {
+        "zaman_saniye": 33.38,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.78
+      },
+      {
+        "zaman_saniye": 34.38,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.75
+      },
+      {
+        "zaman_saniye": 34.38,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.73
+      },
+      {
+        "zaman_saniye": 34.76,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.23
+      },
+      {
+        "zaman_saniye": 36.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.35
+      },
+      {
+        "zaman_saniye": 38.9,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.64
+      },
+      {
+        "zaman_saniye": 39.02,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.2
+      },
+      {
+        "zaman_saniye": 39.1,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.83
+      },
+      {
+        "zaman_saniye": 39.9,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.65
+      },
+      {
+        "zaman_saniye": 40.52,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.32
+      },
+      {
+        "zaman_saniye": 40.9,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.77
+      },
+      {
+        "zaman_saniye": 41.44,
+        "kategori": "sofor_eylemi",
+        "etiket": "esneme",
+        "confidence_score": 0.17
+      },
+      {
+        "zaman_saniye": 41.9,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.78
+      },
+      {
+        "zaman_saniye": 42.54,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.17
+      },
+      {
+        "zaman_saniye": 45.7,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.52
+      },
+      {
+        "zaman_saniye": 46.96,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.61
+      },
+      {
+        "zaman_saniye": 47.96,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.79
+      },
+      {
+        "zaman_saniye": 48.1,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.38
+      },
+      {
+        "zaman_saniye": 48.7,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.93
+      },
+      {
+        "zaman_saniye": 48.96,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.68
+      },
+      {
+        "zaman_saniye": 51.7,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.4
+      },
+      {
+        "zaman_saniye": 53.14,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.64
+      },
+      {
+        "zaman_saniye": 54.14,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.72
+      },
+      {
+        "zaman_saniye": 54.7,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.81
+      },
+      {
+        "zaman_saniye": 55.14,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.72
+      },
+      {
+        "zaman_saniye": 55.68,
+        "kategori": "sofor_eylemi",
+        "etiket": "arkaya_bakma",
+        "confidence_score": 0.23
+      },
+      {
+        "zaman_saniye": 56.14,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.76
+      },
+      {
+        "zaman_saniye": 57.7,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.41
+      },
+      {
+        "zaman_saniye": 59.88,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.68
+      },
+      {
+        "zaman_saniye": 60.02,
+        "kategori": "nesneler",
+        "etiket": "teknocan",
+        "confidence_score": 0.31
+      },
+      {
+        "zaman_saniye": 60.7,
+        "kategori": "sofor_eylemi",
+        "etiket": "slalom",
+        "confidence_score": 0.82
+      },
+      {
+        "zaman_saniye": 60.88,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.75
+      },
+      {
+        "zaman_saniye": 61.88,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.72
+      },
+      {
+        "zaman_saniye": 63.26,
+        "kategori": "sofor_eylemi",
+        "etiket": "emniyet_kemeri_ihlali",
+        "confidence_score": 0.79
+      }
+    ]
+  }
+}

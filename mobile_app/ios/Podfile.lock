@@ -1,0 +1,45 @@
+PODS:
+  - ffmpeg_kit_flutter (6.0.3):
+    - ffmpeg_kit_flutter/ffmpeg_kit_ios_local (= 6.0.3)
+    - Flutter
+  - ffmpeg_kit_flutter/ffmpeg_kit_ios_local (6.0.3):
+    - Flutter
+  - Flutter (1.0.0)
+  - gal (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.4.8):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - ffmpeg_kit_flutter (from `.symlinks/plugins/ffmpeg_kit_flutter/ios`)
+  - Flutter (from `Flutter`)
+  - gal (from `.symlinks/plugins/gal/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+
+EXTERNAL SOURCES:
+  ffmpeg_kit_flutter:
+    :path: ".symlinks/plugins/ffmpeg_kit_flutter/ios"
+  Flutter:
+    :path: Flutter
+  gal:
+    :path: ".symlinks/plugins/gal/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+
+SPEC CHECKSUMS:
+  ffmpeg_kit_flutter: e7449f74ff7dd97fab1b479c862f7f72ff1127ca
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  gal: baecd024ebfd13c441269ca7404792a7152fde89
+  permission_handler_apple: 92d754bbaa7361d436db2d6c3c1c2a0fdcec462e
+  video_player_avfoundation: 3453f792138786248960ca029747fcd9f318ef52
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2
