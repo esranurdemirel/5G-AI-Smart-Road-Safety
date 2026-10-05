@@ -23,7 +23,9 @@ The project consists of three main components:
 Follow the steps below to deploy the project in your local environment or on a server.
 
 ### 1. Artificial Intelligence Module (Docker)
+
 To start the image processing and model inference module:
+
 \`\`\`bash
 cd OffByOneAI
 docker build -t teknofest/akilli-yol:latest .
@@ -31,7 +33,9 @@ docker run --rm -e PYTHONUNBUFFERED=1 -v $(pwd)/test_videosu.mp4:/app/data/input
 \`\`\`
 
 ### 2. Backend (FastAPI)
+
 To install the required Python dependencies and start the asynchronous server:
+
 \`\`\`bash
 cd backend
 python3 -m venv venv
@@ -41,7 +45,9 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 \`\`\`
 
 ### 3. Mobile Application (Flutter)
+
 To run the mobile application on a connected device or emulator:
+
 \`\`\`bash
 cd mobile_app
 flutter pub get
